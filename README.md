@@ -3,19 +3,8 @@
 <h1>Advanced search operators list</h1>
 
 
-<div>
-<img alt="GitHub stars" src="https://img.shields.io/github/stars/istiaq-alam/Advanced-search-operators"> 
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/istiaq-alam/Advanced-search-operators">
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
-    <p align="center">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcipher387%2FAdvanced-search-operators-list%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
-
-
-Thank you for following me! https://cybdetective.com
+Thank you for following me! [Portfolio](https://istiaq-alam.vercel.app/)
 
 <h1>Table of contents</h1>
 
@@ -234,4 +223,4 @@ Thank you for following me! https://cybdetective.com
 | Advanced Google Search | https://chrome.google.com/webstore/detail/advanced-google-search/chkcpeigckjajkfbjhdochlkffjdgeee | Chrome extension: advanced search query builder for Google |
 | YouTube Advanced Search | https://playlists.at/youtube/search/ | Online tool: advanced search query builder for YouTube |
 
-Thank you for following me! https://cybdetective.com
+Thank you for following me! 
